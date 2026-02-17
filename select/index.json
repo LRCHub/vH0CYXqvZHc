@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "バトルフロンティア",
+  "base_artist": "高屋亜希那",
+  "createdAt": "2026-02-17T16:05:56.624844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バトルフロンティア",
+      "artist": "髙屋亜希那",
+      "has_synced": false,
+      "path": "select/01_バトルフロンティア_髙屋亜希那.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バトルフロンティア（映画バージョン）",
+      "artist": "髙屋亜希那",
+      "has_synced": true,
+      "path": "select/02_バトルフロンティア(映画バージョン)_髙屋亜希那.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バトルフロンティア (映画バージョン)",
+      "artist": "高屋亜希那",
+      "has_synced": true,
+      "path": "select/03_バトルフロンティア_(映画バージョン)_高屋亜希那.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バトルフロンティア/Cubby-S feat.puchi(カバー)",
+      "artist": "Cubby-S",
+      "has_synced": false,
+      "path": "select/04_バトルフロンティア_Cubby-S_feat.puchi(カバー)_Cubby-S.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バトルフロンティア (映画バージョン)",
+      "artist": "Various Artist",
+      "has_synced": true,
+      "path": "select/05_バトルフロンティア_(映画バージョン)_Various_Artist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バトルフロンティア (映画バージョン)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_バトルフロンティア_(映画バージョン)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バトルフロンティア",
+      "artist": "高屋亜希那",
+      "has_synced": false,
+      "path": "select/pl_01_バトルフロンティア_高屋亜希那.txt"
+    }
+  ]
+}
